@@ -1,0 +1,52 @@
+nav.navegador{
+  background-color: black;
+
+}
+a.Logo{
+
+}
+
+div.cabecero1{
+  text-align:center;
+  font-size: 15px;
+  font-family: Georgia;
+}
+
+a.link{
+  color: white;
+  text-decoration: none;
+}
+
+div.Redes{
+  text-align: right;
+
+}
+
+div.Cuerpo{
+  text-align: center;
+  font-size: 30px;
+  font-family: Georgia;
+}
+
+footer.pie{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
+
+button.boton{
+  background-color: #B5985B;
+      border: 3px;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+}
+
+p.texto{
+  font-size: 18px;
+  font-family: Georgia;
+}
